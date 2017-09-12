@@ -4,8 +4,6 @@ A Clojure library designed to be used as a template for each exercise/tp used in
 
 ## Usage
 
-<Complete this section>
-
 ## License
 
 Copyright © 2017
